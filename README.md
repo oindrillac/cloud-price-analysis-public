@@ -10,3 +10,5 @@ In this project,we aim to manage Cloud Costs by using Machine Learning algorithm
 Below is a video overview of the Project Statement and Exploratory Data Analysis in the JupyterHub environment.
 
 `video: https://www.youtube.com/watch?v=jne4auRnxJ4&feature=youtu.be`
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
